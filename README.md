@@ -72,11 +72,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thariqdev&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thariqdev&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thariqdev&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thariqdev&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thariqdev&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thariqdev&theme=tokyonight" height="180em"/>
 </p>
 
 ---
