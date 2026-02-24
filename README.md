@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B Mohammed Thariq</h1>
-<h3 align="center">Frontend Developer | React.js & Next.js Specialist</h3>
+<h3 align="center">Frontend Developer | React.js & Next.js</h3>
 
 ---
 
@@ -19,6 +19,7 @@
 - CSS3
 - JavaScript (ES6+)
 - TypeScript
+- Redux
 - React.js
 - Next.js
 - React Router
