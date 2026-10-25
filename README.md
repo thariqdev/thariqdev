@@ -1,102 +1,28 @@
-<h1 align="center">Hi 👋, I'm B Mohammed Thariq</h1>
+# Hi, I'm B Mohammed Thariq 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+Specialist;Building+Scalable+Web+Applications;Turning+Ideas+into+Beautiful+Interfaces" />
-</p>
+**Full Stack Software Engineer** · Dubai, UAE · Available immediately
 
----
+## About
+- 3+ years building dashboards and web apps for fintech and wealth management platforms.
+- Frontend: React.js, Next.js, TypeScript.
+- Backend: Python, FastAPI, SQLAlchemy, PostgreSQL.
+- Building AI features with RAG (retrieval-augmented generation).
 
-## 🚀 About Me
+## Tech stack
+**Frontend:** React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS · Bootstrap
+**Backend:** Python · FastAPI · SQLAlchemy · Node.js · Express.js · JWT authentication
+**Database:** PostgreSQL
+**Tools:** Git · GitHub · Postman · Swagger (OpenAPI)
 
-💼 **Associate Software Engineer (Frontend Developer) at Evoqins**  
-⚛️ Specializing in React.js & Next.js  
-🎯 Focused on scalable, responsive & performance-driven applications  
-🎨 Passionate about clean UI, smooth UX & modern web architecture  
-📍 Based in India  
+## Projects
+- **[Career AI](https://github.com/thariqdev/career-ai)**: job-search assistant with a RAG chat, proof-based skills and job matching. Next.js, FastAPI, PostgreSQL.
+- **[Talk to Thariq](https://github.com/thariqdev/thariq-rag-portfolio)**: portfolio site with a chat assistant that answers only from my documents. Live: [YOUR VERCEL URL]
+- **[Employee Task Dashboard](https://github.com/thariqdev/employee-task-dashboard)**: task management dashboard. React and Node.js.
+- **[Portfolio](https://portfolio-updated-pink-five.vercel.app/)**: my personal website.
 
----
+## Experience
+- **Software Engineer, Full Stack · Evoqins Pvt Ltd** (Sept 2024 – Aug 2026): fintech dashboards, and FastAPI backend work on FundsApp.
+- **Junior Software Developer · Asian Media Group** (Sept 2023 – Sept 2024): React, Tailwind and WordPress.
 
-## 🌐 Portfolio
-
-🔗 **Live Portfolio:**  
-👉 https://portfolio-updated-pink-five.vercel.app/
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,git,github,vscode" />
-
-</p>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Evoqins — Associate Software Engineer
-- Converting Figma designs into production-ready React / Next.js applications  
-- API integration & state management  
-- Building responsive, cross-browser compatible interfaces  
-- Optimizing performance & improving user experience  
-- Writing clean, scalable and maintainable code  
-
----
-
-## 🔥 Highlighted Projects
-
-### 🌟 Personal Portfolio Website
-- Modern responsive design
-- Animated UI sections
-- Performance optimized deployment on Vercel  
-🔗 https://portfolio-updated-pink-five.vercel.app/
-
----
-
-### 🛍 Dynamic Product Listing App
-- Filtering, Search & Sorting functionality  
-- API Integration  
-- Fully responsive UI  
-- Built using React + Bootstrap  
-
----
-
-### 📊 API-Based Web Application
-- Fetching & rendering dynamic content  
-- Optimized state management  
-- Clean reusable component architecture  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thariqdev&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thariqdev&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thariqdev&theme=tokyonight" height="170"/>
-</p>
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-<a href="https://instagram.com/mohammed___thariq">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohammed-thariq-b11b673b2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:thariqmohammed660@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=thariqdev&icon=5&color=12" />
-</p>
+## Contact
+[LinkedIn](https://linkedin.com/in/mohammed-thariq-b11b673b2) · [Email](mailto:thariqmohammed0310@gmail.com)
