@@ -25,4 +25,4 @@
 - **Junior Software Developer · Asian Media Group** (Sept 2023 – Sept 2024): React, Tailwind and WordPress.
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/mohammed-thariq-b11b673b2) · [Email](mailto:thariqmohammed0310@gmail.com)
+[LinkedIn](https://linkedin.com/in/b-mohammed-thariq-b11b673b2/) · [Email](mailto:thariqmohammed0310@gmail.com)
