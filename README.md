@@ -1,6 +1,6 @@
 # Hi, I'm B Mohammed Thariq 👋
 
-**Full Stack Software Engineer** · Dubai, UAE · Available immediately
+**Full Stack Software Engineer** · Dubai, UAE 
 
 ## About
 - 3+ years building dashboards and web apps for fintech and wealth management platforms.
